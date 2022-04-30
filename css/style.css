@@ -168,3 +168,9 @@ margin-top: 18px;
 margin-left: 5px;
 }
 
+@media (max-width: 830px) {
+  .imgx {
+    position: absolute;
+    right: 570px;
+  }
+}
